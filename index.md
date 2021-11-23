@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
+## 欢迎来到周雄兵的博客
 
-Welcome to the zhouxiongbing20192123039 wiki!
 
 以下是创建Repositories及建立Repositories的功能用例图模型的过程
 
